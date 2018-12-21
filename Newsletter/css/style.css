@@ -1,0 +1,177 @@
+body {
+	text-align:center;
+	font-size:30px;
+	background:#f5f5ed;
+	margin: 0px;
+}
+
+a {
+	text-decoration:none;
+}
+
+P{
+	text-indent:30px;
+	line-height:15px;
+}
+
+.cover {
+	background-image:url(../Photos/Aficionado3.jpg);
+	background-position:top;
+	background-repeat:no-repeat;
+	padding:20px;
+	margin:0px;
+}
+
+.button{
+	color:#2d2d2b;
+	padding:0px 20px;
+	font-size: 15px;
+	font-family:century gothic;
+	background-color:#ffdc54;
+}
+
+.button:hover {
+	color:white;
+}
+
+#main-menu {
+	margin:0px;
+	padding:0px;
+	display:block;
+	text-align:right;
+	list-style:none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 2px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffdc54;
+}
+
+li {
+  float: right;
+  text-align:center;
+  border-left: 2px solid #2d2d2b;
+  margin: 5px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.top {
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: 1.5fr 1fr;
+	background-image: url(../Photos/star2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 0px;
+}
+
+.main1 {
+	font-size:16px;
+	text-align:justify;
+	font-family:century gothic;
+	padding-top: 300px;
+	padding-left: 70px;
+	color:white;
+	margin-bottom:20px;
+}
+
+.main2 {
+	font-size:15px;
+	text-align:justify;
+	font-family:century gothic;
+	padding-top: 0px;
+	color: black;
+	margin-bottom: 300px;
+	margin-left:0px;
+	color:white;
+	font-size: 60px;
+}
+
+
+.middle1 {
+	font-family:century gothic;
+	padding-top: 3px;
+	padding-left:70px;
+	padding-right: 70px;
+	padding-bottom:8px;
+	background-color: #ffdc54;
+}
+
+.middlemiddle {
+	background-color: #f7f4e7;
+	text-align:justify;
+	font-family:century gothic;
+	padding-left:30px;
+	padding-right: 30px;
+	text-align:justify;
+	font-size:17px;
+	grid-template-columns: 1.5fr 1fr;
+	grid-gap:5px;
+	display:grid;
+	border-bottom: 30px #ffdc54 solid;
+}
+
+.middle2{
+	padding-top: 0px;
+	padding-right: 10px;
+}
+
+.middle3 {
+	padding-right: 0px;
+	padding-top: 20px;
+}
+
+.space {
+	padding:7px;
+	background-color:#2d2d2b;
+	margin-bottom:4px;
+}
+
+.space1 {
+	padding:7px;
+	background-color:#2d2d2b;
+	margin-bottom:19px;
+}
+
+.third {
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns:  1.5fr 1fr;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color:#2d2d2b;
+	margin-bottom:0px;
+}
+
+.third2 {
+	font-family: Verdana;
+	font-size:15px;
+	text-align:justify;
+	padding-right: 10px;
+	padding-left:10px;
+	color: white;
+}
+
+.third3 {
+	padding:40px;
+	background-image:url(../Photos/lastline.jpg);
+}
+
+.fourth {
+	background-image:url(../Photos/boxofficer.jpg);
+	padding:450px;
+}
+
+.space2 {
+	background-image:url(../Photos/Aficionado4.jpg);
+	background-position:top;
+	background-repeat:no-repeat;
+	padding:20px;
+	margin:0px;
+}
